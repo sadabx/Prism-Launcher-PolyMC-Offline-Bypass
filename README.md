@@ -2,6 +2,9 @@
 Bypass check if user has a real Microsoft account linked with the launcher<br>
 ⚠️ This is for entertainment purposes only ⚠️
 
+# UPDATE
+Prism Launcher added a check of Online Accounts. The fix is to download the older version of [Prism Launcher 9.4](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.4)
+
 # This launcher is too complicated for me :(
 You can try out my other project [Offline Minecraft Launcher](https://github.com/antunnitraj/OfflineMinecraftLauncher)
 
